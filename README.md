@@ -22,9 +22,13 @@
 
 ![Giao diện thực thi](./screenshots/execution_result_bai1.png)
 
+
 ---
 
+##### ẢNH MÀN HÌNH THỰC THI KHI MUỐN XÓA THIẾT BỊ
+
 ![Giao diện thực thi khi muốn xóa thiết bị](<./screenshots/execution_result_bai1 (2).png>)
+
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
@@ -47,9 +51,14 @@
 
 ![Giao diện thực thi](./screenshots/execution_result_bai2.png)
 
+
 ---
 
+
+##### ẢNH MÀN HÌNH THỰC THI KHI NHẤN THOÁT HOẶC ĐÓNG FORM
+
 ![Giao diện thực thi khi nhấn thoát hoặc đóng Form](<./screenshots/execution_result_bai2 (2).png>)
+
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
@@ -73,13 +82,20 @@
 
 ![Giao diện thực thi](./screenshots/execution_result_bai3.png)
 
+
 ---
+
+##### ẢNH MÀN HÌNH THỰC THI KHI MUỐN TẢI BÁO CÁO DOANH THU VÀ BẬT ĐỒNG BỘ THEO THƠI GIAN
 
 ![Giao diện thực thi khi muốn tải báo cáo doanh thu và bật đồng bộ theo thời gian](<./screenshots/execution_result_bai3 (2).png>)
 
+
 ---
 
+##### ẢNH MÀN HÌNH THỰC THI KHI MUỐN THOÁT
+
 ![Giao diện thực thi khi muốn thoát](<./screenshots/execution_result_bai3 (3).png>)
+
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
