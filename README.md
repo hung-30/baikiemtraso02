@@ -49,7 +49,7 @@
 
 ---
 
-![Giao diện thực thi khi nhấn thoát hoặc đóng Form](./screenshots/execution_result_bai2 (2).png)
+![Giao diện thực thi khi nhấn thoát hoặc đóng Form](<./screenshots/execution_result_bai2 (2).png>)
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
@@ -75,11 +75,11 @@
 
 ---
 
-![Giao diện thực thi khi muốn tải báo cáo doanh thu và bật đồng bộ theo thời gian](./screenshots/execution_result_bai3 (2).png)
+![Giao diện thực thi khi muốn tải báo cáo doanh thu và bật đồng bộ theo thời gian](<./screenshots/execution_result_bai3 (2).png>)
 
 ---
 
-![Giao diện thực thi khi muốn thoát](./screenshots/execution_result_bai3 (3).png)
+![Giao diện thực thi khi muốn thoát](<./screenshots/execution_result_bai3 (3).png>)
 
 
 #### ẢNH MÀN HÌNH KIỂM TRA LỖI
